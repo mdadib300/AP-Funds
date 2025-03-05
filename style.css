@@ -14,7 +14,7 @@ body {
     padding: 200px;
 }
 
-#header-text{
+.header-text{
     margin: 50px;
     font-size: x-large;
 }
@@ -36,18 +36,29 @@ body {
     text-decoration: none;
     color: slategray;
     background-color: silver;
-    padding: 15px;
+    margin: 20px;
+    padding: 25px;
     border: hidden;
     border-radius: 2px;
+}
+
+#or{
+    margin-top: 70px;
 }
 
 #default {
     text-decoration: none;
     color: tomato;
     background-color: peachpuff;
-    padding: 15px;
+    padding: 25px;
+    margin: 20px;
     border: hidden;
     border-radius: 2px;
+}
+
+input{
+    margin: 30px;
+    padding: 10px 20px;
 }
 
 
